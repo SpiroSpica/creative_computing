@@ -3,8 +3,6 @@ var seoulCount = 0;
 var airData = [];
 var url = 'DataAll.json';
 var targetYear = 1990;
-//var url = 'https://cors-anywhere.herokuapp.com/http://openAPI.seoul.go.kr:8088/457a73784768617438394b506b4a70/json/YearlyAverageAirQuality/1/40/';
-
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
